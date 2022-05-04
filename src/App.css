@@ -3,7 +3,6 @@
   background-color: #121212;
   width: 100vw;
   height: 100vh;
-  /* display: flex; */
   color: white;
 }
 
@@ -37,8 +36,8 @@ nav h1 {
 }
 
 .board {
-  width: 450px;
-  height: 550px;
+  width: 331px;
+  height: 396px;
   border: 1px solid black;
   display: flex;
   flex-direction: column;
